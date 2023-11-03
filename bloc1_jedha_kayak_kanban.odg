@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.graphics">
+ <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><dc:date>2023-11-03T18:11:07.440483985</dc:date><meta:editing-duration>PT1H2M16S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:document-statistic meta:object-count="7"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">4019</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-502</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">22205</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">30879</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item config:name="GridIsVisible" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridIsFront" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToPageMargins" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToSnapLines" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToObjectFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToObjectPoints" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsPlusHandlesAlwaysVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsFrameDragSingles" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="EliminatePolyPointLimitAngle" config:type="int">1500</config:config-item>
+     <config:config-item config:name="IsEliminatePolyPoints" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="VisibleLayers" config:type="base64Binary">Hw==</config:config-item>
+     <config:config-item config:name="PrintableLayers" config:type="base64Binary">Hw==</config:config-item>
+     <config:config-item config:name="LockedLayers" config:type="base64Binary"/>
+     <config:config-item config:name="NoAttribs" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">1</config:config-item>
+     <config:config-item config:name="IsLayerMode" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
+     <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">4019</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-502</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">22206</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">30880</config:config-item>
+     <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridFineWidth" config:type="int">250</config:config-item>
+     <config:config-item config:name="GridFineHeight" config:type="int">250</config:config-item>
+     <config:config-item config:name="GridSnapWidthXNumerator" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridSnapWidthXDenominator" config:type="int">4</config:config-item>
+     <config:config-item config:name="GridSnapWidthYNumerator" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">4</config:config-item>
+     <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
+     <config:config-item config:name="ZoomOnPage" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BitmapTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.sob</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ColorTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.soc</config:config-item>
+   <config:config-item config:name="DashTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.sod</config:config-item>
+   <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">fr</config:config-item>
+     <config:config-item config:name="Country" config:type="string">FR</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="GradientTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.sog</config:config-item>
+   <config:config-item config:name="HatchTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.soh</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintBookletFront" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintDate" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintFitPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintHiddenPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LineEndTableURL" config:type="string">$(brandbaseurl)/share/palette%3B$(user)/config/standard.soe</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MeasureUnit" config:type="short">3</config:config-item>
+   <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
+   <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">lAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
+   <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="Formes" draw:style="rectangular" draw:cx="50%" draw:cy="50%" draw:start-color="#cccccc" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0deg" draw:border="0%"/>
+  <draw:gradient draw:name="Plein" draw:style="linear" draw:start-color="#ffffff" draw:end-color="#cccccc" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Plein_20_bleu" draw:display-name="Plein bleu" draw:style="linear" draw:start-color="#729fcf" draw:end-color="#355269" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Plein_20_jaune" draw:display-name="Plein jaune" draw:style="linear" draw:start-color="#ffde59" draw:end-color="#b47804" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Plein_20_rouge" draw:display-name="Plein rouge" draw:style="linear" draw:start-color="#ff6d6d" draw:end-color="#c9211e" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:gradient draw:name="Plein_20_vert" draw:display-name="Plein vert" draw:style="linear" draw:start-color="#77bc65" draw:end-color="#127622" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/>
+  <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="fr" fo:country="FR" style:font-name-asian="DejaVu Sans" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:style style:name="standard" style:family="graphic">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:marker-end-width="0.2cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#729fcf" draw:textarea-horizontal-align="justify" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080">
+    <text:list-style style:name="standard">
+     <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+      <style:list-level-properties text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+      <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+      <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+      <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+      <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+      <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+      <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+      <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+      <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+      <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+    </text:list-style>
+   </style:graphic-properties>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:fill="none"/>
+  </style:style>
+  <style:style style:name="Objet_20_sans_20_remplissage_20_et_20_sans_20_ligne" style:display-name="Objet sans remplissage et sans ligne" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="Text" style:family="graphic">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-color="#cccccc" draw:fill="solid" draw:fill-color="#eeeeee"/>
+   <style:text-properties style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="A4" style:family="graphic" style:parent-style-name="Text">
+   <style:graphic-properties draw:fill="none"/>
+   <style:text-properties fo:font-size="18pt"/>
+  </style:style>
+  <style:style style:name="Title_20_A4" style:display-name="Title A4" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+   <style:text-properties fo:font-size="44pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_A4" style:display-name="Heading A4" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+   <style:text-properties fo:font-size="24pt"/>
+  </style:style>
+  <style:style style:name="Text_20_A4" style:display-name="Text A4" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+  </style:style>
+  <style:style style:name="A4" style:family="graphic" style:parent-style-name="Text">
+   <style:graphic-properties draw:fill="none"/>
+   <style:text-properties fo:font-size="18pt"/>
+  </style:style>
+  <style:style style:name="Title_20_A0" style:display-name="Title A0" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+   <style:text-properties fo:font-size="96pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_A0" style:display-name="Heading A0" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+   <style:text-properties fo:font-size="71.9000015258789pt"/>
+  </style:style>
+  <style:style style:name="Text_20_A0" style:display-name="Text A0" style:family="graphic" style:parent-style-name="A4">
+   <style:graphic-properties draw:stroke="none"/>
+  </style:style>
+  <style:style style:name="Graphic" style:family="graphic">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/>
+  </style:style>
+  <style:style style:name="Shapes" style:family="graphic" style:parent-style-name="Graphic">
+   <style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Formes"/>
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Filled" style:family="graphic" style:parent-style-name="Shapes">
+   <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Plein"/>
+  </style:style>
+  <style:style style:name="Filled_20_Blue" style:display-name="Filled Blue" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:fill-gradient-name="Plein_20_bleu"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="Filled_20_Green" style:display-name="Filled Green" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:fill-gradient-name="Plein_20_vert"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Filled_20_Red" style:display-name="Filled Red" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:fill-gradient-name="Plein_20_rouge"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="Filled_20_Yellow" style:display-name="Filled Yellow" style:family="graphic" style:parent-style-name="Filled">
+   <style:graphic-properties draw:fill-gradient-name="Plein_20_jaune"/>
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="Outlined" style:family="graphic" style:parent-style-name="Shapes">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.081cm" svg:stroke-color="#000000" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Blue" style:display-name="Outlined Blue" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties svg:stroke-color="#355269"/>
+   <style:text-properties fo:color="#355269" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Green" style:display-name="Outlined Green" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties svg:stroke-color="#127622"/>
+   <style:text-properties fo:color="#127622" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Red" style:display-name="Outlined Red" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties svg:stroke-color="#c9211e"/>
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="Outlined_20_Yellow" style:display-name="Outlined Yellow" style:family="graphic" style:parent-style-name="Outlined">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-color="#b47804"/>
+   <style:text-properties fo:color="#b47804" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="Lines" style:family="graphic" style:parent-style-name="Graphic">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="Arrow_20_Line" style:display-name="Arrow Line" style:family="graphic" style:parent-style-name="Lines">
+   <style:graphic-properties draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:show-unit="true"/>
+  </style:style>
+  <style:style style:name="Arrow_20_Dashed" style:display-name="Arrow Dashed" style:family="graphic" style:parent-style-name="Lines">
+   <style:graphic-properties draw:stroke="dash"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:page-layout style:name="PM0">
+   <style:page-layout-properties fo:margin-top="1cm" fo:margin-bottom="1cm" fo:margin-left="1cm" fo:margin-right="1cm" fo:page-width="21cm" fo:page-height="29.7cm" style:print-orientation="portrait"/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="border" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="dp2" style:family="drawing-page"/>
+  <style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="1cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr2" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="0.75cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr3" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="0.79cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.22cm" fo:margin-bottom="0.15cm" fo:line-height="100%" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.35cm"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+    <style:list-level-properties text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+    <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+    <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+    <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+    <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+    <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+    <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+    <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <draw:layer-set>
+   <draw:layer draw:name="layout"/>
+   <draw:layer draw:name="background"/>
+   <draw:layer draw:name="backgroundobjects"/>
+   <draw:layer draw:name="controls"/>
+   <draw:layer draw:name="measurelines"/>
+  </draw:layer-set>
+  <style:master-page style:name="Standard" style:page-layout-name="PM0" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:drawing>
+   <draw:page draw:name="page1" draw:style-name="dp2" draw:master-page-name="Standard">
+    <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="1.25cm" svg:x="2.25cm" svg:y="3.25cm">
+     <draw:text-box>
+      <text:p>Identify question</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="1.673cm" svg:x="2.25cm" svg:y="4.5cm">
+     <draw:text-box>
+      <text:p>How to answer question : API, ; deliverables</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="1.25cm" svg:x="14cm" svg:y="11.25cm">
+     <draw:text-box>
+      <text:p>Get familiar with relevant API</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="1.25cm" svg:x="13.75cm" svg:y="13.5cm">
+     <draw:text-box>
+      <text:p>Organise output</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr2" draw:text-style-name="P1" draw:layer="layout" svg:width="3.25cm" svg:height="1cm" svg:x="3cm" svg:y="1.75cm">
+     <draw:text-box>
+      <text:p>DONE</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr2" draw:text-style-name="P1" draw:layer="layout" svg:width="3.25cm" svg:height="1cm" svg:x="14.75cm" svg:y="1.75cm">
+     <draw:text-box>
+      <text:p>TO DO</text:p>
+     </draw:text-box>
+    </draw:frame>
+   </draw:page>
+   <draw:page draw:name="page2" draw:style-name="dp2" draw:master-page-name="Standard">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="19.793cm" svg:height="30.071cm" svg:x="0.75cm" svg:y="0.5cm">
+     <draw:text-box>
+      <text:p text:style-name="P2"><text:span text:style-name="T1">GOAL :</text:span></text:p>
+      <text:p text:style-name="P2">- 70% of their users who are planning a trip would like to have more information about the destination they are going to.</text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">- people tend to </text:span><text:span text:style-name="T2">be defiant about </text:span><text:span text:style-name="T2">the information </text:span><text:span text:style-name="T2">they are reading </text:span><text:span text:style-name="T2">if they don&apos;t know </text:span><text:span text:style-name="T2">the brand which </text:span><text:span text:style-name="T2">produced the </text:span><text:span text:style-name="T2">content.</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Weather, <text:s text:c="2"/></text:span><text:span text:style-name="T2">Hotels in the area </text:span><text:span text:style-name="T2">=&gt; The </text:span><text:span text:style-name="T2">application </text:span><text:span text:style-name="T2">should then be </text:span><text:span text:style-name="T2">able to </text:span><text:span text:style-name="T2">recommend the </text:span><text:span text:style-name="T2">best destinations </text:span><text:span text:style-name="T2">and hotels based </text:span><text:span text:style-name="T2">on the above </text:span><text:span text:style-name="T2">variables at any </text:span><text:span text:style-name="T2">given time.</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"/></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Scrape data </text:span><text:span text:style-name="T2">from destinations</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Get weather </text:span><text:span text:style-name="T2">data from each </text:span><text:span text:style-name="T2">destination</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Get hotels&apos; info </text:span><text:span text:style-name="T2">about each </text:span><text:span text:style-name="T2">destination</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Store all the </text:span><text:span text:style-name="T2">information above </text:span><text:span text:style-name="T2">in a data lake</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Extract, </text:span><text:span text:style-name="T2">transform and </text:span><text:span text:style-name="T2">load cleaned data </text:span><text:span text:style-name="T2">from your </text:span><text:span text:style-name="T2">datalake to a </text:span><text:span text:style-name="T2">data warehouse</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">On top 35 cities </text:span><text:span text:style-name="T2">in France.</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">[&quot;</text:span><text:span text:style-name="T3">top_35</text:span><text:span text:style-name="T2"> = </text:span><text:span text:style-name="T2">[&quot;Mont Saint </text:span><text:span text:style-name="T2">Michel&quot;, &quot;St </text:span><text:span text:style-name="T2">Malo&quot;, &quot;Bayeux&quot;, </text:span><text:span text:style-name="T2">&quot;Le Havre&quot;, </text:span><text:span text:style-name="T2">&quot;Rouen&quot;, </text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="10"/></text:span><text:span text:style-name="T2">&quot;Paris&quot;, </text:span><text:span text:style-name="T2">&quot;Amiens&quot;, &quot;Lille&quot;, </text:span><text:span text:style-name="T2">&quot;Strasbourg&quot;, </text:span><text:span text:style-name="T2">&quot;Chateau du Haut </text:span><text:span text:style-name="T2">Koenigsbourg&quot;,</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="11"/></text:span><text:span text:style-name="T2">&quot;Colmar&quot;, </text:span><text:span text:style-name="T2">&quot;Eguisheim&quot;, </text:span><text:span text:style-name="T2">&quot;Besancon&quot;, </text:span><text:span text:style-name="T2">&quot;Dijon&quot;, </text:span><text:span text:style-name="T2">&quot;Annecy&quot;, </text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="11"/></text:span><text:span text:style-name="T2">&quot;Grenoble&quot;, </text:span><text:span text:style-name="T2">&quot;Lyon&quot;, &quot;Gorges </text:span><text:span text:style-name="T2">du Verdon&quot;, </text:span><text:span text:style-name="T2">&quot;Bormes les </text:span><text:span text:style-name="T2">Mimosas&quot;, </text:span><text:span text:style-name="T2">&quot;Cassis&quot;, </text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="11"/></text:span><text:span text:style-name="T2">&quot;Marseille&quot;, &quot;Aix </text:span><text:span text:style-name="T2">en Provence&quot;, </text:span><text:span text:style-name="T2">&quot;Avignon&quot;, </text:span><text:span text:style-name="T2">&quot;Uzes&quot;, &quot;Nimes&quot;, </text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="11"/></text:span><text:span text:style-name="T2">&quot;Aigues </text:span><text:span text:style-name="T2">Mortes&quot;, &quot;Saintes </text:span><text:span text:style-name="T2">Maries de la </text:span><text:span text:style-name="T2">mer&quot;, &quot;Collioure&quot;, </text:span><text:span text:style-name="T2">&quot;Carcassonne&quot;, </text:span><text:span text:style-name="T2">&quot;Ariege&quot;, </text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="11"/></text:span><text:span text:style-name="T2">&quot;Toulouse&quot;, </text:span><text:span text:style-name="T2">&quot;Montauban&quot;, </text:span><text:span text:style-name="T2">&quot;Biarritz&quot;, </text:span><text:span text:style-name="T2">&quot;Bayonne&quot;, &quot;La </text:span><text:span text:style-name="T2">Rochelle&quot;]</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"/></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T3">A. </text:span><text:span text:style-name="T3">LOCALISATION </text:span><text:span text:style-name="T3">:</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">gps coordinates </text:span><text:span text:style-name="T2">of all the cities : </text:span><text:span text:style-name="T2"><text:a xlink:href="https://nominatim.org/" xlink:type="simple">https://nominatim.org/</text:a></text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:a xlink:href="https://nominatim.org/release-docs/develop/api/Search/" xlink:type="simple">https://nominatim.org/release-docs/develop/api/Search/</text:a></text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T3">B. WEATHER </text:span><text:span text:style-name="T2">: </text:span><text:span text:style-name="T2"><text:a xlink:href="https://openweathermap.org/appid" xlink:type="simple">https://openweathermap.org/appid</text:a></text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:a xlink:href="https://openweathermap.org/api/one-call-api" xlink:type="simple">https://openweathermap.org/api/one-call-api</text:a></text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">→ </text:span><text:span text:style-name="T2">and put it in a </text:span><text:span text:style-name="T2">DataFrame _ </text:span><text:span text:style-name="T2">time dependent ?</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">Determine the list </text:span><text:span text:style-name="T2">of cities where </text:span><text:span text:style-name="T2">the weather will </text:span><text:span text:style-name="T2">be the nicest </text:span><text:span text:style-name="T2">within the next 7 </text:span><text:span text:style-name="T2">days For </text:span><text:span text:style-name="T2">example, you can </text:span><text:span text:style-name="T2">use the values of </text:span><text:span text:style-name="T2">daily.pop and </text:span><text:span text:style-name="T2">daily.rain to </text:span><text:span text:style-name="T2">compute the </text:span><text:span text:style-name="T2">expected volume </text:span><text:span text:style-name="T2">of rain within the </text:span><text:span text:style-name="T2">next 7 days</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">Maybe the most </text:span><text:span text:style-name="T2">important </text:span><text:span text:style-name="T2">criterion for you </text:span><text:span text:style-name="T2">is the </text:span><text:span text:style-name="T2">temperature or </text:span><text:span text:style-name="T2">humidity, so feel </text:span><text:span text:style-name="T2">free to change </text:span><text:span text:style-name="T2">the rules !</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"/></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">Save everything </text:span><text:span text:style-name="T2">in a csv with </text:span><text:span text:style-name="T2">unique d of the </text:span><text:span text:style-name="T2">city and save the </text:span><text:span text:style-name="T2">names….</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">Make an </text:span><text:span text:style-name="T2">interactive map </text:span><text:span text:style-name="T2">with plotly</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T3">C. HOTELS:</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">Booking.com :</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">hotel name,</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Url to its </text:span><text:span text:style-name="T2">booking.com </text:span><text:span text:style-name="T2">page,</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Its </text:span><text:span text:style-name="T2">coordinates: </text:span><text:span text:style-name="T2">latitude and </text:span><text:span text:style-name="T2">longitude</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Score given by </text:span><text:span text:style-name="T2">the website users</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s text:c="4"/></text:span><text:span text:style-name="T2">Text </text:span><text:span text:style-name="T2">description of the </text:span><text:span text:style-name="T2">hotel</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"/></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T3">D. STORE DATA </text:span><text:span text:style-name="T3">IN SQL </text:span><text:span text:style-name="T3">DATABASE</text:span><text:span text:style-name="T2"> :</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">Create a datalake </text:span><text:span text:style-name="T2">(S3 bucket AWS), </text:span><text:span text:style-name="T2">then SQL </text:span><text:span text:style-name="T2">database using </text:span><text:span text:style-name="T2">AWS Redshift. </text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"/></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T3">DELIVERABLES</text:span><text:span text:style-name="T3"> :.</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">csv file in an S3 </text:span><text:span text:style-name="T2">bucket containing </text:span><text:span text:style-name="T2">enriched </text:span><text:span text:style-name="T2">information about </text:span><text:span text:style-name="T2">weather and </text:span><text:span text:style-name="T2">hotels for each </text:span><text:span text:style-name="T2">french city, </text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2">SQL Database </text:span><text:span text:style-name="T2">where we should </text:span><text:span text:style-name="T2">be able to get the </text:span><text:span text:style-name="T2">same cleaned </text:span><text:span text:style-name="T2">data from S3, </text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"><text:s/></text:span><text:span text:style-name="T2">two maps where </text:span><text:span text:style-name="T2">you should have </text:span><text:span text:style-name="T2">a Top-5 </text:span><text:span text:style-name="T2">destinations and </text:span><text:span text:style-name="T2">a Top-20 hotels in </text:span><text:span text:style-name="T2">the area. You can </text:span><text:span text:style-name="T2">use plotly or any </text:span><text:span text:style-name="T2">other library to do </text:span><text:span text:style-name="T2">so. It should look </text:span><text:span text:style-name="T2">something like </text:span><text:span text:style-name="T2">this:</text:span></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"/></text:p>
+      <text:p text:style-name="P2"><text:span text:style-name="T2"/></text:p>
+     </draw:text-box>
+    </draw:frame>
+   </draw:page>
+  </office:drawing>
+ </office:body>
+</office:document>
