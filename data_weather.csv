@@ -1,0 +1,176 @@
+,id_weather,ville,id_ville,date,time,temp_Celsius,weather,details,humidity_%,wind_meter/sec
+0,1,Mont Saint-Michel,1,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+1,2,Mont Saint-Michel,1,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+2,3,Mont Saint-Michel,1,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+3,4,Mont Saint-Michel,1,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+4,5,Mont Saint-Michel,1,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+5,6,Saint-Malo,2,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+6,7,Saint-Malo,2,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+7,8,Saint-Malo,2,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+8,9,Saint-Malo,2,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+9,10,Saint-Malo,2,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+10,11,Bayeux,3,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+11,12,Bayeux,3,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+12,13,Bayeux,3,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+13,14,Bayeux,3,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+14,15,Bayeux,3,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+15,16,Le Havre,4,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+16,17,Le Havre,4,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+17,18,Le Havre,4,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+18,19,Le Havre,4,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+19,20,Le Havre,4,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+20,21,Rouen,5,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+21,22,Rouen,5,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+22,23,Rouen,5,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+23,24,Rouen,5,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+24,25,Rouen,5,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+25,26,Paris,6,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+26,27,Paris,6,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+27,28,Paris,6,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+28,29,Paris,6,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+29,30,Paris,6,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+30,31,Amiens,7,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+31,32,Amiens,7,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+32,33,Amiens,7,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+33,34,Amiens,7,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+34,35,Amiens,7,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+35,36,Lille,8,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+36,37,Lille,8,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+37,38,Lille,8,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+38,39,Lille,8,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+39,40,Lille,8,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+40,41,Strasbourg,9,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+41,42,Strasbourg,9,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+42,43,Strasbourg,9,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+43,44,Strasbourg,9,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+44,45,Strasbourg,9,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+45,46,Château du Haut-Kœnigsbourg,10,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+46,47,Château du Haut-Kœnigsbourg,10,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+47,48,Château du Haut-Kœnigsbourg,10,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+48,49,Château du Haut-Kœnigsbourg,10,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+49,50,Château du Haut-Kœnigsbourg,10,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+50,51,Colmar,11,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+51,52,Colmar,11,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+52,53,Colmar,11,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+53,54,Colmar,11,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+54,55,Colmar,11,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+55,56,Eguisheim,12,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+56,57,Eguisheim,12,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+57,58,Eguisheim,12,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+58,59,Eguisheim,12,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+59,60,Eguisheim,12,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+60,61,Besançon,13,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+61,62,Besançon,13,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+62,63,Besançon,13,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+63,64,Besançon,13,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+64,65,Besançon,13,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+65,66,Dijon,14,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+66,67,Dijon,14,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+67,68,Dijon,14,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+68,69,Dijon,14,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+69,70,Dijon,14,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+70,71,Annecy,15,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+71,72,Annecy,15,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+72,73,Annecy,15,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+73,74,Annecy,15,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+74,75,Annecy,15,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+75,76,Grenoble,16,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+76,77,Grenoble,16,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+77,78,Grenoble,16,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+78,79,Grenoble,16,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+79,80,Grenoble,16,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+80,81,Lyon,17,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+81,82,Lyon,17,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+82,83,Lyon,17,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+83,84,Lyon,17,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+84,85,Lyon,17,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+85,86,Gorges du Verdon,18,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+86,87,Gorges du Verdon,18,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+87,88,Gorges du Verdon,18,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+88,89,Gorges du Verdon,18,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+89,90,Gorges du Verdon,18,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+90,91,Bormes-les-Mimosas,19,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+91,92,Bormes-les-Mimosas,19,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+92,93,Bormes-les-Mimosas,19,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+93,94,Bormes-les-Mimosas,19,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+94,95,Bormes-les-Mimosas,19,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+95,96,Cassis,20,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+96,97,Cassis,20,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+97,98,Cassis,20,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+98,99,Cassis,20,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+99,100,Cassis,20,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+100,101,Marseille,21,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+101,102,Marseille,21,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+102,103,Marseille,21,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+103,104,Marseille,21,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+104,105,Marseille,21,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+105,106,Aix-en-Provence,22,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+106,107,Aix-en-Provence,22,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+107,108,Aix-en-Provence,22,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+108,109,Aix-en-Provence,22,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+109,110,Aix-en-Provence,22,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+110,111,Avignon,23,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+111,112,Avignon,23,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+112,113,Avignon,23,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+113,114,Avignon,23,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+114,115,Avignon,23,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+115,116,Uzès,24,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+116,117,Uzès,24,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+117,118,Uzès,24,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+118,119,Uzès,24,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+119,120,Uzès,24,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+120,121,Nîmes,25,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+121,122,Nîmes,25,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+122,123,Nîmes,25,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+123,124,Nîmes,25,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+124,125,Nîmes,25,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+125,126,Aigues-Mortes,26,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+126,127,Aigues-Mortes,26,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+127,128,Aigues-Mortes,26,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+128,129,Aigues-Mortes,26,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+129,130,Aigues-Mortes,26,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+130,131,Saintes-Maries-de-la-Mer,27,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+131,132,Saintes-Maries-de-la-Mer,27,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+132,133,Saintes-Maries-de-la-Mer,27,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+133,134,Saintes-Maries-de-la-Mer,27,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+134,135,Saintes-Maries-de-la-Mer,27,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+135,136,Collioure,28,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+136,137,Collioure,28,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+137,138,Collioure,28,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+138,139,Collioure,28,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+139,140,Collioure,28,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+140,141,Carcassonne,29,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+141,142,Carcassonne,29,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+142,143,Carcassonne,29,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+143,144,Carcassonne,29,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+144,145,Carcassonne,29,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+145,146,Ariège,30,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+146,147,Ariège,30,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+147,148,Ariège,30,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+148,149,Ariège,30,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+149,150,Ariège,30,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+150,151,Toulouse,31,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+151,152,Toulouse,31,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+152,153,Toulouse,31,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+153,154,Toulouse,31,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+154,155,Toulouse,31,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+155,156,Montauban,32,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+156,157,Montauban,32,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+157,158,Montauban,32,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+158,159,Montauban,32,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+159,160,Montauban,32,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+160,161,Biarritz,33,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+161,162,Biarritz,33,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+162,163,Biarritz,33,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+163,164,Biarritz,33,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+164,165,Biarritz,33,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+165,166,Bayonne,34,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+166,167,Bayonne,34,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+167,168,Bayonne,34,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+168,169,Bayonne,34,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+169,170,Bayonne,34,2023-12-24,12:00,11.08,Rain,light rain,89,6.86
+170,171,La Rochelle,35,2023-12-20,12:00,6.02,Clouds,scattered clouds,91,3.81
+171,172,La Rochelle,35,2023-12-21,12:00,11.04,Clouds,overcast clouds,87,6.84
+172,173,La Rochelle,35,2023-12-22,12:00,11.86,Rain,light rain,75,7.08
+173,174,La Rochelle,35,2023-12-23,12:00,10.52,Clouds,overcast clouds,74,5.74
+174,175,La Rochelle,35,2023-12-24,12:00,11.08,Rain,light rain,89,6.86

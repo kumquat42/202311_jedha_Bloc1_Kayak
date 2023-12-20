@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><dc:date>2023-11-10T09:48:36.539140768</dc:date><meta:editing-duration>PT1H7M4S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:document-statistic meta:object-count="12"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><dc:date>2023-12-20T11:07:15.056300342</dc:date><meta:editing-duration>PT1H30M39S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:document-statistic meta:object-count="13"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">4019</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-502</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">22205</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">30879</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-434</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-5845</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">32777</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">30684</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -35,10 +35,10 @@
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-458</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-23100</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">67114</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">30784</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-434</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-5845</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">32778</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">30685</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">250</config:config-item>
@@ -94,9 +94,9 @@
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Brother_MFC_J5335DW_Fax_MacBook_Pro_de_Aliz</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">vAH+/0Jyb3RoZXJfTUZDX0o1MzM1RFdfRmF4X01hY0Jvb2tfUHJvX2RlX0FsaXoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpCcm90aGVyX01GQ19KNTMzNURXX0ZheF9NYQAWAAMA3QAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9QnJvdGhlcl9NRkNfSjUzMzVEV19GYXhfTWFjQm9va19Qcm9fZGVfQWxpegpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmFkanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleHREYXRhCkR1cGxleDpOb25lAFBhZ2VTaXplOkE0AAASAENPTVBBVF9EVVBMRVhfTU9ERQ8ARHVwbGV4TW9kZTo6T2Zm</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">lAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
    <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
@@ -130,7 +130,7 @@
   <draw:stroke-dash draw:name="Long_20_Dash_20__28_Rounded_29_" draw:display-name="Long Dash (Rounded)" draw:style="round" draw:dots1="1" draw:dots1-length="301%" draw:distance="399%"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="fr" fo:country="FR" style:font-name-asian="DejaVu Sans" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -300,7 +300,7 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr4" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="4.267cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="2.5cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr5" style:family="graphic" style:parent-style-name="standard">
@@ -317,6 +317,10 @@
    <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="29.821cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
+  <style:style style:name="gr9" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="12.25cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
@@ -325,40 +329,49 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-style="normal" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-style="normal" fo:font-weight="bold"/>
+   <style:text-properties fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
-   <style:text-properties fo:font-weight="bold"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-weight="bold"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph">
+  <style:style style:name="P6" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.22cm" fo:margin-bottom="0.15cm" fo:line-height="100%" fo:text-indent="0cm"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.35cm" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.35cm"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph">
    <loext:graphic-properties draw:fill="none"/>
-   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.35cm" style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.35cm"/>
    <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -433,27 +446,27 @@
       <text:p text:style-name="P2"><text:span text:style-name="T1"><text:tab/></text:span><text:span text:style-name="T1">- </text:span>Recover list lat/lon - csv</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="1.25cm" svg:x="14.75cm" svg:y="17.75cm">
+    <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="1.25cm" svg:x="14.5cm" svg:y="22cm">
      <draw:text-box>
       <text:p>Organise output</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P4" draw:layer="layout" svg:width="3.25cm" svg:height="1cm" svg:x="3cm" svg:y="1.75cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="3.25cm" svg:height="1cm" svg:x="3cm" svg:y="1.75cm">
      <draw:text-box>
-      <text:p text:style-name="P3">DONE</text:p>
+      <text:p><text:span text:style-name="T2">DONE</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P6" draw:layer="layout" svg:width="3.25cm" svg:height="1cm" svg:x="14.75cm" svg:y="1.75cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P4" draw:layer="layout" svg:width="3.25cm" svg:height="1cm" svg:x="14.75cm" svg:y="1.75cm">
      <draw:text-box>
-      <text:p text:style-name="P5">TO DO</text:p>
+      <text:p><text:span text:style-name="T3">TO DO</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P1" draw:layer="layout" svg:width="27.5cm" svg:height="4.517cm" svg:x="6.5cm" svg:y="12cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P1" draw:layer="layout" svg:width="13.75cm" svg:height="3.095cm" svg:x="1.5cm" svg:y="11.75cm">
      <draw:text-box>
       <text:p>API weather :</text:p>
       <text:p>- api key ok</text:p>
-      <text:p>- recovery des reponses par pays = ok, certaines ne fonctionnent pas</text:p>
-      <text:p>- trouver par lat/lon</text:p>
+      <text:p>- recovery des reponses par pays par lat/lon</text:p>
+      <text:p>- fichiers créé automatiquement...</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="3.095cm" svg:x="1.5cm" svg:y="8.25cm">
@@ -463,68 +476,85 @@
       <text:p>Size dots</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="1.25cm" svg:x="14.75cm" svg:y="16.5cm">
+    <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="9.25cm" svg:height="2.384cm" svg:x="14.25cm" svg:y="16.366cm">
      <draw:text-box>
-      <text:p>Booking</text:p>
+      <text:p>Booking :</text:p>
+      <text:p>Path qui est faisable en fonction de la demande….</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr6" draw:text-style-name="P7" draw:layer="layout" svg:x1="0.5cm" svg:y1="3cm" svg:x2="20.75cm" svg:y2="3cm">
+    <draw:line draw:style-name="gr6" draw:text-style-name="P5" draw:layer="layout" svg:x1="0.5cm" svg:y1="3cm" svg:x2="20.75cm" svg:y2="3cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr7" draw:text-style-name="P7" draw:layer="layout" svg:x1="10.75cm" svg:y1="1.25cm" svg:x2="10.75cm" svg:y2="27cm">
+    <draw:line draw:style-name="gr7" draw:text-style-name="P5" draw:layer="layout" svg:x1="10.75cm" svg:y1="1.25cm" svg:x2="10.75cm" svg:y2="27cm">
      <text:p/>
     </draw:line>
    </draw:page>
    <draw:page draw:name="page2" draw:style-name="dp2" draw:master-page-name="Standard">
-    <draw:frame draw:style-name="gr8" draw:text-style-name="P9" draw:layer="layout" svg:width="19.793cm" svg:height="30.071cm" svg:x="0.75cm" svg:y="0.5cm">
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P7" draw:layer="layout" svg:width="19.793cm" svg:height="30.071cm" svg:x="0.75cm" svg:y="0.5cm">
      <draw:text-box>
-      <text:p text:style-name="P8"><text:span text:style-name="T2">GOAL :</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">- 70% of their users who are planning a trip would like to have more information about the destination they are going to.</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">- people tend to be defiant about the information they are reading if they don&apos;t know the brand which produced the content.</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Weather, <text:s text:c="2"/>Hotels in the area =&gt; The application should then be able to recommend the best destinations and hotels based on the above variables at any given time.</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"/></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Scrape data from destinations</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Get weather data from each destination</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Get hotels&apos; info about each destination</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Store all the information above in a data lake</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Extract, transform and load cleaned data from your datalake to a data warehouse</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">On top 35 cities in France.</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">[&quot;</text:span><text:span text:style-name="T2">top_35</text:span><text:span text:style-name="T3"> = [&quot;Mont Saint Michel&quot;, &quot;St Malo&quot;, &quot;Bayeux&quot;, &quot;Le Havre&quot;, &quot;Rouen&quot;, </text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="10"/></text:span><text:span text:style-name="T3">&quot;Paris&quot;, &quot;Amiens&quot;, &quot;Lille&quot;, &quot;Strasbourg&quot;, &quot;Chateau du Haut Koenigsbourg&quot;,</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="11"/></text:span><text:span text:style-name="T3">&quot;Colmar&quot;, &quot;Eguisheim&quot;, &quot;Besancon&quot;, &quot;Dijon&quot;, &quot;Annecy&quot;, </text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="11"/></text:span><text:span text:style-name="T3">&quot;Grenoble&quot;, &quot;Lyon&quot;, &quot;Gorges du Verdon&quot;, &quot;Bormes les Mimosas&quot;, &quot;Cassis&quot;, </text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="11"/></text:span><text:span text:style-name="T3">&quot;Marseille&quot;, &quot;Aix en Provence&quot;, &quot;Avignon&quot;, &quot;Uzes&quot;, &quot;Nimes&quot;, </text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="11"/></text:span><text:span text:style-name="T3">&quot;Aigues Mortes&quot;, &quot;Saintes Maries de la mer&quot;, &quot;Collioure&quot;, &quot;Carcassonne&quot;, &quot;Ariege&quot;, </text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="11"/></text:span><text:span text:style-name="T3">&quot;Toulouse&quot;, &quot;Montauban&quot;, &quot;Biarritz&quot;, &quot;Bayonne&quot;, &quot;La Rochelle&quot;]</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"/></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T2">A. LOCALISATION :</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">gps coordinates of all the cities : </text:span><text:span text:style-name="T3"><text:a xlink:href="https://nominatim.org/" xlink:type="simple">https://nominatim.org/</text:a></text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:a xlink:href="https://nominatim.org/release-docs/develop/api/Search/" xlink:type="simple">https://nominatim.org/release-docs/develop/api/Search/</text:a></text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T2">B. WEATHER </text:span><text:span text:style-name="T3">: </text:span><text:span text:style-name="T3"><text:a xlink:href="https://openweathermap.org/appid" xlink:type="simple">https://openweathermap.org/appid</text:a></text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:a xlink:href="https://openweathermap.org/api/one-call-api" xlink:type="simple">https://openweathermap.org/api/one-call-api</text:a></text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">→ </text:span><text:span text:style-name="T3">and put it in a DataFrame _ time dependent ?</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">Determine the list of cities where the weather will be the nicest within the next 7 days For example, you can use the values of daily.pop and daily.rain to compute the expected volume of rain within the next 7 days</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">Maybe the most important criterion for you is the temperature or humidity, so feel free to change the rules !</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"/></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">Save everything in a csv with unique d of the city and save the names….</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">Make an interactive map with plotly</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T2">C. HOTELS:</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">Booking.com :</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">hotel name,</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Url to its booking.com page,</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Its coordinates: latitude and longitude</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Score given by the website users</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s text:c="4"/></text:span><text:span text:style-name="T3">Text description of the hotel</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"/></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T2">D. STORE DATA IN SQL DATABASE</text:span><text:span text:style-name="T3"> :</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">Create a datalake (S3 bucket AWS), then SQL database using AWS Redshift. </text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"/></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T2">DELIVERABLES :.</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">csv file in an S3 bucket containing enriched information about weather and hotels for each french city, </text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3">SQL Database where we should be able to get the same cleaned data from S3, </text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"><text:s/></text:span><text:span text:style-name="T3">two maps where you should have a Top-5 destinations and a Top-20 hotels in the area. You can use plotly or any other library to do so. It should look something like this:</text:span></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"/></text:p>
-      <text:p text:style-name="P8"><text:span text:style-name="T3"/></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T4">GOAL :</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">- 70% of their users who are planning a trip would like to have more information about the destination they are going to.</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">- people tend to be defiant about the information they are reading if they don&apos;t know the brand which produced the content.</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Weather, <text:s text:c="2"/>Hotels in the area =&gt; The application should then be able to recommend the best destinations and hotels based on the above variables at any given time.</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"/></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Scrape data from destinations</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Get weather data from each destination</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Get hotels&apos; info about each destination</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Store all the information above in a data lake</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Extract, transform and load cleaned data from your datalake to a data warehouse</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">On top 35 cities in France.</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">[&quot;</text:span><text:span text:style-name="T4">top_35</text:span><text:span text:style-name="T5"> = [&quot;Mont Saint Michel&quot;, &quot;St Malo&quot;, &quot;Bayeux&quot;, &quot;Le Havre&quot;, &quot;Rouen&quot;, </text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="10"/></text:span><text:span text:style-name="T5">&quot;Paris&quot;, &quot;Amiens&quot;, &quot;Lille&quot;, &quot;Strasbourg&quot;, &quot;Chateau du Haut Koenigsbourg&quot;,</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="11"/></text:span><text:span text:style-name="T5">&quot;Colmar&quot;, &quot;Eguisheim&quot;, &quot;Besancon&quot;, &quot;Dijon&quot;, &quot;Annecy&quot;, </text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="11"/></text:span><text:span text:style-name="T5">&quot;Grenoble&quot;, &quot;Lyon&quot;, &quot;Gorges du Verdon&quot;, &quot;Bormes les Mimosas&quot;, &quot;Cassis&quot;, </text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="11"/></text:span><text:span text:style-name="T5">&quot;Marseille&quot;, &quot;Aix en Provence&quot;, &quot;Avignon&quot;, &quot;Uzes&quot;, &quot;Nimes&quot;, </text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="11"/></text:span><text:span text:style-name="T5">&quot;Aigues Mortes&quot;, &quot;Saintes Maries de la mer&quot;, &quot;Collioure&quot;, &quot;Carcassonne&quot;, &quot;Ariege&quot;, </text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="11"/></text:span><text:span text:style-name="T5">&quot;Toulouse&quot;, &quot;Montauban&quot;, &quot;Biarritz&quot;, &quot;Bayonne&quot;, &quot;La Rochelle&quot;]</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"/></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T4">A. LOCALISATION :</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">gps coordinates of all the cities : </text:span><text:span text:style-name="T5"><text:a xlink:href="https://nominatim.org/" xlink:type="simple">https://nominatim.org/</text:a></text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:a xlink:href="https://nominatim.org/release-docs/develop/api/Search/" xlink:type="simple">https://nominatim.org/release-docs/develop/api/Search/</text:a></text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T4">B. WEATHER </text:span><text:span text:style-name="T5">: </text:span><text:span text:style-name="T5"><text:a xlink:href="https://openweathermap.org/appid" xlink:type="simple">https://openweathermap.org/appid</text:a></text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:a xlink:href="https://openweathermap.org/api/one-call-api" xlink:type="simple">https://openweathermap.org/api/one-call-api</text:a></text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">→ </text:span><text:span text:style-name="T5">and put it in a DataFrame _ time dependent ?</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">Determine the list of cities where the weather will be the nicest within the next 7 days For example, you can use the values of daily.pop and daily.rain to compute the expected volume of rain within the next 7 days</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">Maybe the most important criterion for you is the temperature or humidity, so feel free to change the rules !</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"/></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">Save everything in a csv with unique d of the city and save the names….</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">Make an interactive map with plotly</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T4">C. HOTELS:</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">Booking.com :</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">hotel name,</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Url to its booking.com page,</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Its coordinates: latitude and longitude</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Score given by the website users</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s text:c="4"/></text:span><text:span text:style-name="T5">Text description of the hotel</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"/></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T4">D. STORE DATA IN SQL DATABASE</text:span><text:span text:style-name="T5"> :</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">Create a datalake (S3 bucket AWS), then SQL database using AWS Redshift. </text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"/></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T4">DELIVERABLES :.</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">csv file in an S3 bucket containing enriched information about weather and hotels for each french city, </text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5">SQL Database where we should be able to get the same cleaned data from S3, </text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"><text:s/></text:span><text:span text:style-name="T5">two maps where you should have a Top-5 destinations and a Top-20 hotels in the area. You can use plotly or any other library to do so. It should look something like this:</text:span></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"/></text:p>
+      <text:p text:style-name="P6"><text:span text:style-name="T5"/></text:p>
+     </draw:text-box>
+    </draw:frame>
+   </draw:page>
+   <draw:page draw:name="page3" draw:style-name="dp2" draw:master-page-name="Standard">
+    <draw:frame draw:style-name="gr9" draw:text-style-name="P9" draw:layer="layout" svg:width="18.783cm" svg:height="12.5cm" svg:x="1.217cm" svg:y="1cm">
+     <draw:text-box>
+      <text:p text:style-name="P8">Weather: https://openweathermap.org/appid </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">When you exceed the API call limitResponse from API when your account is suspended{ &quot;cod&quot;: 429,&quot;message&quot;: &quot;Your account is temporary blocked due to exceeding of requests limitation of your subscription type. Please choose the proper subscription http://openweathermap.org/price&quot;}</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">https://openweathermap.org/api</text:p>
+      <text:p text:style-name="P8">http://api.openweathermap.org/data/2.5/forecast?id=524901&amp;appid={API key}</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">Endpoint:- Please, use the endpoint api.openweathermap.org for your API calls- Example of API call:api.openweathermap.org/data/2.5/weather?q=London,uk&amp;APPID=072e809f705792eeebcf776ae98b0ce4</text:p>
+      <text:p text:style-name="P8">Useful links:- API documentation https://openweathermap.org/api- Details of your plan https://openweathermap.org/price- Please, note that 16-days daily forecast and History API are not available for Free subscribers</text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
